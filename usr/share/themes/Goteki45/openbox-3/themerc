@@ -1,0 +1,71 @@
+!! Theme: Goteki45
+!! Description: An aerodynamic theme for CBPP
+!! Author: Fabien Dupont <fabd.webdev@gmail.com>
+!! Web: https://github.com/fabien-dupont
+!! -------------------------------------------------------
+
+!! Menu settings
+
+menu.title.bg: flat solid
+menu.title.bg.color: #222222 
+menu.title.text.color: #ffffff
+menu.title.text.justify:right
+menu.separator.color: #ffffff
+
+menu.items.bg: flat solid
+menu.items.bg.color: #222222
+menu.items.text.color: #ffb859
+menu.items.disabled.text.color: #999999
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #ffb859
+menu.items.active.bg.colorTo:#222222
+menu.items.active.text.color: #222222
+menu.bullet.selected.image.color: #FFFFFF
+
+!! focused window settings
+
+window.active.title.bg: flat solid
+window.active.title.bg.color: #ffb859
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #ffb859
+window.active.grip.bg: parentrelative
+window.active.label.bg: parentrelative
+window.active.label.text.color: #222222
+window.*.button.*.bg: parentrelative
+window.active.button.*.image.color: #ffffff
+window.active.button.*.pressed.image.color: #ff1a8a
+window.active.button.disabled.image.color: #999999
+
+!! unfocused window settings
+window.inactive.title.bg:		flat solid
+window.inactive.title.bg.color:		#222222
+
+window.inactive.label.bg:		parentrelative
+window.inactive.label.text.color:	#ffb859
+
+window.inactive.handle.bg:		flat solid
+window.inactive.handle.bg.color:	#222222
+
+window.inactive.grip.bg: parentrelative
+
+!! Global width settings
+border.Width: 1
+padding.width: 2
+window.handle.width: 5
+window.client.padding.width: 0
+menu.overlap.x: 0
+
+!! Miscellaneous settings
+border.color: #222222
+menu.border.color: #222222
+
+!! OSD
+osd.bg: flat solid
+osd.bg.color: #222222
+osd.label.bg: parentrelative
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #ffb859
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #222222
+osd.label.text.color: #ffffff
