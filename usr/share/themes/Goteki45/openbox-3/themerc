@@ -26,12 +26,12 @@ menu.bullet.selected.image.color: #FFFFFF
 !! focused window settings
 
 window.active.title.bg: flat solid
-window.active.title.bg.color: #ffb859
+window.active.title.bg.color: #222222
 window.active.handle.bg: flat solid
 window.active.handle.bg.color: #ffb859
 window.active.grip.bg: parentrelative
 window.active.label.bg: parentrelative
-window.active.label.text.color: #222222
+window.active.label.text.color: #ffb859
 window.*.button.*.bg: parentrelative
 window.active.button.*.image.color: #ffffff
 window.active.button.*.pressed.image.color: #ff1a8a
