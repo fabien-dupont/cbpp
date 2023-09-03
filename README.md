@@ -1,7 +1,7 @@
 UI config for cbpp debian 12
 
 
-custom theme : Goteki45
+custom theme : Goteki
 
 
 orange : #ffb859
